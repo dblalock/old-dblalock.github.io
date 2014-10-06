@@ -1,0 +1,11 @@
+# Site settings
+title: Science++
+email: 
+description: "Useful stuff for scientific computing research"
+baseurl: ""
+url: "http://dblalock.github.io"
+github_username:  dblalock
+
+# Build settings
+markdown: redcarpet
+permalink: pretty
