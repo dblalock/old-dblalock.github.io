@@ -1,8 +1,8 @@
 ---
 layout: post
 comments: true
-title:  "Hierarchical builds via Scons"
-excerpt: "This is a test. This is only a test"
+title:  "Cross-Platform Builds via Scons"
+excerpt: "Scons is great a great build tool, but the documentation can be a bit simplistic. Here's how to build a realistic project with it."
 date:   2014-10-5 22:54:00
 ---
 
