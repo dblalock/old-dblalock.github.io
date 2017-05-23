@@ -2,24 +2,11 @@
 layout: post
 comments: true
 title:  "What I Learned Doing Deep Learning Research at Google"
-excerpt: "There's a sense that you're at the center of the AI world"
+excerpt: "There's a sense that you're at the center of the AI world."
 date:   2016-12-1 22:54:00
 ---
 
 In summer 2016, I was fortunate enough to intern at Google Research in Mountain View. Specifically, I worked on [Wide and Deep Learning](https://research.googleblog.com/2016/06/wide-deep-learning-better-together-with.html) with [Heng-Tze Cheng](https://research.google.com/pubs/Heng-TzeCheng.html), who was an awesome mentor/supervisor. I learned an enormous amount from this experience, and thought I would share some of it with others. Note that everything here is just my own opinion and/or reflects information that Google has made public.
-
-## People
-
-Google Research feels like a modern day Bell Labs. In addition to legends such as [Jeff Dean](http://www.businessinsider.com/astounding-facts-about-googles-most-badass-engineer-jeff-dean-2012-1), [Sanjay Ghemawat](https://research.google.com/pubs/SanjayGhemawat.html), [Geoff Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton), and others, almost everyone is extremely impressive in some way. One guy finished his undergrad, MS, and PhD in 6 years. Another was a chess grandmaster. Another won multiple "best paper" awards in grad school. Another was the #1 student in the entire country of Turkey. One guy is a Thiel fellow and basically [the reason anyone understands neural networks](http://colah.github.io). It felt a lot like EECS at MIT in that you look around and just kind of wonder how you're there.
-
-## Culture and Atmosphere
-
-My experience of Google culture is consistent with what you've probably heard elsewhere. There's unlimited free food, gyms and laundry in various buildings, and a strong expectation that everyone be positive and collaborative. I didn't encounter any jerks, and people always treated one another with respect.
-
-The only aspect I was surprised by is that almost everyone works normal hours, to the point that most of the Google cafeterias aren't even open on weekends. I know people work at home to some extent, but I still wasn't expecting this overall.
-
-At Google Research specifically, there's a sense that you're at the center of the AI world and are inventing the future. Papers that Google writes and systems that Google builds get press coverage around the world. TensorFlow is used by a huge number of companies, researchers, and university classes. If you're in the machine learning world, there are state-of-the-art results, classic papers, and blog posts you know about that were all written by people down the hall.
-
 
 ## Ain't No Problem Like a Google Problem
 
@@ -35,17 +22,17 @@ Much of this is because Google's core datasets track queries, impressions (i.e.,
 
 #### Huge number of classes
 
-If you look at datasets outside web companies, most of them have a few thousand classes at most. Google commonly has **millions of classes**, with each corresponding to, e.g., one ad, one youtube video, or one app in the Play store. This means that even a simple linear model can contain an enormous number of parameters. Consequently, there's strong incentive to make models sparse, at least at the output layer. If the model isn't sparse, it can be too slow to serve predictions for live traffic.
+If you look at datasets outside web companies, most of them have a few thousand classes at most. Google commonly has **millions of classes**, with each corresponding to, e.g., one ad, one YouTube video, or one app in the Play store. This means that even a simple linear model can contain an enormous number of parameters. Consequently, there's strong incentive to make models sparse, at least at the output layer. If the model isn't sparse, it can be too slow to serve predictions for live traffic.
 
 Another consequence is that the pattern of retrieval + reranking is common. Retrieval refers to creating a short list of good candidates based on keywords or other simple criteria, while reranking is determining (often with a learned model) which of these candidates are the best.
 
 #### Non-stationarity
 
-Another big difference in the data is that the distribution of Google's data is [non-stationary](https://en.wikipedia.org/wiki/Stationary_process). I.e., what people are watching, searching for, and clicking on changes over time. This is not a problem you ever encounter when using a fixed dataset, which is what almost everyone in academia uses. This non-stationarity also results in decreasing marginal returns from using older data---at some point, the decrease in variance from using more data is outweighed by the increase in bias towards outdated patterns.
+Another big difference is that the distribution of Google's data is [non-stationary](https://en.wikipedia.org/wiki/Stationary_process). I.e., what people are watching, searching for, and clicking on changes over time. This is not a problem you ever encounter when using a fixed dataset, which is what almost everyone in academia uses. This non-stationarity also results in decreasing marginal returns from using older data---at some point, the decrease in variance from using more data is outweighed by the increase in bias towards outdated patterns.
 
 #### Data munging
 
-The vast majority of the code in a real-world machine learning system has nothing to do with machine learning algorithms. Instead, it loads data from various sources, cleans it, extracts features, and packages the model(s) for live traffic and live experiments.
+The vast majority of the code in a real-world machine learning system has nothing to do with machine learning algorithms. Instead, it loads data from various sources, cleans it, extracts features, and packages the model(s) for live traffic and live experiments. You need one or two people who can code the math at the core, but for the most part, machine learning is a systems problem.
 
 #### Every ounce of accuracy matters
 
@@ -67,16 +54,45 @@ When I train a model on my laptop, the only cost I really think about is the tim
 
 Because Google's models affect what users see, there are often feedback loops that make it difficult to infer what the best recommendations are. For example, if my current model recommends YouTube video X whenever you view video Y, this will result in many people viewing X after Y. When I train a new model, it will see this pattern and conclude that people who like Y like X as well. However, it could be that people only clicked on X because that was what we recommended, and there's another video Z that they would like better.
 
+## People and Culture
+
+In addition to the above technical lessons, another big takeaway was the caliber of the people.
+
+Google Research feels like a modern day Bell Labs. In addition to legends such as [Jeff Dean](http://www.businessinsider.com/astounding-facts-about-googles-most-badass-engineer-jeff-dean-2012-1), [Sanjay Ghemawat](https://research.google.com/pubs/SanjayGhemawat.html), [Geoff Hinton](https://en.wikipedia.org/wiki/Geoffrey_Hinton), and others, almost everyone is extremely impressive in some way. One guy finished his undergrad, MS, and PhD in 6 years. Another was a chess grandmaster. Another won multiple "best paper" awards in grad school. Another was the #1 student in the entire country of Turkey. One guy is a Thiel fellow and basically [the reason anyone understands neural networks](http://colah.github.io). It felt a lot like EECS at MIT in that you look around and just kind of wonder how you're there.
+
+Along the same lines, there's a sense that you're at the center of the AI world and are inventing the future. Papers that Google writes and systems that Google builds get press coverage around the world. TensorFlow is used by a huge number of companies, researchers, and university classes. If you're in the machine learning world, there are state-of-the-art results, classic papers, and blog posts you know about that were all written by people down the hall.
+
+At the same time, though, people aren't arrogant and are easy to work with. Culturally, it's basically the same as the rest of Google, in that everyone is nice, collaborative, and respectful.
+
+<!-- And of course, the company supplies you with a lot of free food and other perks. -->
+
+<!--
+## Culture and Atmosphere
+
+Finally, no description of a company would be complete without some mention of the culture.
+
+My experience of Google culture is consistent with what you've probably heard elsewhere. There's unlimited free food, gyms and laundry in various buildings, and a strong expectation that everyone be positive and collaborative. I didn't encounter any jerks, and people always treated one another with respect.
+
+The only aspect I was surprised by is that almost everyone works normal hours, to the point that most of the Google cafeterias aren't even open on weekends. I know people work at home to some extent, but I still wasn't expecting this overall.
+
+At Google Research specifically, there's a sense that you're at the center of the AI world and are inventing the future. Papers that Google writes and systems that Google builds get press coverage around the world. TensorFlow is used by a huge number of companies, researchers, and university classes. If you're in the machine learning world, there are state-of-the-art results, classic papers, and blog posts you know about that were all written by people down the hall.
+ -->
+
+## Conclusion
+
+Google Research is one of the centers of the AI universe right now, and I feel extremely lucky to have spent time there. If you have any thoughts or questions, feel free to comment below.
+
+
 <!-- [DistBelief](https://research.google.com/archive/large_deep_networks_nips2012.html) -->
 
-
+<!--
 
 ## Typical Day
 
 When I want to understand what life is like for someone, my favorite information is what their typical day entails. My schedule was not especially representative of interns or employees in general, but here's what it looked like.
 
 Time | Description
----- | ----
+--- | ---
 6:40 | Wake up
 7:00 | Get on the Google bus. Listen to podcasts / audiobooks.
 7:20 | Arrive at the office. Log onto my machine, start a clean build, and get everything set up to start working.
@@ -92,8 +108,9 @@ Time | Description
 The evening changed a lot during the last 5 weeks of my internship because I was pushing to get my project done. I got dinner a little bit later, since I didn't have to catch the bus, and then worked until 9:45. There was no bus to my house at that point, so I'd get a Lyft home.
 
 To be clear, my schedule wasn't normal (i.e., I'm not contradicting the claim that people usually don't work crazy hours)---I just really wanted my project to get done and am perhaps a bit too eager to throw time at my problems. A few other interns had schedules like mine (or even more intense), but this was atypical and always self-imposed.
-
-
+ -->
+<!--
 ## Conclusion
 
 Google Research is one of the centers of the AI universe right now, as well as a great place to work. It's an organization I feel incredibly privileged to have been a part of, and I hope this post serves to channel this privilege into something beneficial for those who haven't had the same good luck that I had.
+ -->
