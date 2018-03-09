@@ -1,7 +1,7 @@
 # Site settings
 title: Davis Talks Data - Machine learning research, trends, and evidence-based ramblings
 email:
-description: "Machine learning research, trends, and evidence-based ramblings"
+description: "Machine learning research, trends, and ramblings"
 baseurl: ""
 url: "http://dblalock.github.io"
 github_username:  dblalock
