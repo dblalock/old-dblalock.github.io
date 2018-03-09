@@ -5,6 +5,7 @@ title:  "Tutorial: Performance Engineering for Machine Learning and Scientific C
 excerpt: "What you need to know to make your code run faster."
 date:   2017-7-7 20:51:00
 ---
+<!-- excerpt: "Your code can probably be way faster. Here's how." -->
 
 
 <!-- ^ Note that above quotes the whole section of Knuth's paper, which is actually a really good + short commentary about when + what to optimize -->
