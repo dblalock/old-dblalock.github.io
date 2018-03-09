@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title:  "Cross-Platform Builds via Scons"
-excerpt: "Scons is great a great build tool, but the documentation can be a bit simplistic. Here's how to build a realistic project with it."
+excerpt: "The Scons build tool's documentation can be a bit simplistic. Here's how to build a realistic project with it."
 date:   2014-10-5 22:54:00
 ---
 
@@ -14,3 +14,6 @@ Unfortunately, while the documentation makes clear how to do simple builds where
 To save anyone else out there the pain of figuring out how to do this, here's an [example hierarchical build via Scons](https://github.com/dblalock/scons-example). The basic idea is that there's a root "Sconstruct" file that kicks off the whole build by calling "sconscript" files in the roots of the source and test directories.
 
 This system will work regardless of your source and test directory structures, since it recursively adds all source directories to the build path. You could also recursively call custom "sconscript" files within each directory if you wanted to ensure that there weren't bizarre dependencies between modules, but for a small-ish project, the include-everything-ever solution is convenient.
+
+
+**2017 Edit: Scons has caused me nothing but pain. Use [Bazel](bazel). You can find an example in the [C++ code](https://github.com/dblalock/bolt/tree/master/cpp) for [Bolt](https://github.com/dblalock/bolt).**
