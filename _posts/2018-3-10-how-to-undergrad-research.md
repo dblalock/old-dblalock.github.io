@@ -3,7 +3,7 @@ layout: post
 comments: true
 title:  "How to succeed as an undergraduate researcher"
 excerpt: "Concrete Dos and Don'ts + an overview of what to expect"
-date:   2018-3-10 11:33:00
+date:   2018-3-10 11:34:00
 ---
 
 Research is a different experience, with different success criteria, than most undergraduates have experienced before. In contrast to classes and most extracurricular activities, it lacks rigid structure and how to do it well is nebulous at best. The purpose of the post is to flesh out what undergraduate research entails, what succeeding at it looks like, and how to achieve this success.
@@ -31,13 +31,7 @@ In classes, it's generally frowned upon for homework or tests to demand skills o
 
 #### Uncertainty
 
-In classes, success is largely determined by your ability to learn quickly and execute well-defined tasks with high quality.
-<!--
- - Ability to learn quickly
- - Ability to get a lot of work done per hour
- - Ability to work a lot of hours per week
- -->
-In research, these abilities are important but there's another quality that matters perhaps even more:
+In classes, success is largely determined by your ability to learn quickly and execute well-defined tasks with high quality. In research, these abilities are important but there's another quality that matters perhaps even more:
 
  - *Ability to figure out what to work on*
 
