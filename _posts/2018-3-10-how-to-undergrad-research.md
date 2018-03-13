@@ -8,7 +8,7 @@ date:   2018-3-10 11:34:00
 
 Research is a different experience, with different success criteria, than most undergraduates have experienced before. In contrast to classes and most extracurricular activities, it lacks rigid structure and how to do it well is nebulous at best. The purpose of the post is to flesh out what undergraduate research entails, what succeeding at it looks like, and how to achieve this success.
 
-# Typical Undergraduate Research Experience
+#### Typical Undergraduate Research Experience
 
 The exact nature of what you'll be doing varies by field, but will usually have the same structure. Initially, you'll work either with a professor or graduate student on one of their existing projects. In the worst case, you'll be doing something menial for a while that they didn't want to do. In the best case, you'll be doing something you find interesting that consistently pushes you just past your current level of knowledge. Either way, you'll likely meet with this mentor once a week or so, during which you'll report on what you got done and relevant results, and both of you will figure out what to do for next week. Eventually, if you stick with it and show that you're effective, you'll be given more autonomy, ownership of bigger pieces of projects, or even the opportunity to lead a project yourself.
 
@@ -18,16 +18,16 @@ As you get more familiar with the project and research area, your tasks are like
 
 Once you've been with the group for a year or two, you'll likely be the expert regarding some aspect of your project and/or the lab's operations. For example, you might be the one who wrote a piece of software everyone relies on or the one who collected a certain dataset. At this point, you're likely to have a decent understanding of the research area the group works in.
 
-## Research vs Classes
+### Research vs Classes
 
 Because the main set of responsibilities you're used to are likely classes, it's worth pointing out several ways in which research differs.
 
 
-#### Need for self-teaching
+# Need for self-teaching
 
 In classes, it's generally frowned upon for homework or tests to demand skills or knowledge that weren't covered in the class materials. In research, there are no class materials. There's work that needs to get done, and it's up to you to learn what's necessary to make it happen. Of course, there's a limit to what you can teach yourself in a short time frame, so your mentor should keep in mind your current level of knowledge. This is also why it's important not to try to hide when you don't know something.
 
-#### Uncertainty
+# Uncertainty
 
 In classes, success is largely determined by your ability to learn quickly and execute well-defined tasks with high quality. In research, these abilities are important but there's another quality that matters perhaps even more:
 
@@ -37,7 +37,7 @@ This applies at the level of picking the overall project, figuring what sub-goal
 
 As an undergrad, your mentor will insulate you from this uncertainty to some extent early on, as described previously. But keep in mind that cultivating the skill of dealing with this uncertainty is much of what it means to grow as a researcher.
 
-# Evaluation Criteria: What success looks like (sometimes)
+#### Evaluation Criteria: What success looks like (sometimes)
 
 Doing research will get you some combination of:
 
@@ -97,9 +97,9 @@ But perhaps most importantly, don't worry too much about optimizing your researc
 
 <!-- # Typical Undergraduate Research Experience -->
 
-# Dos and Don'ts
+#### Dos and Don'ts
 
-#### Individual work
+## Individual work
 
 **Don't:** When encountering an unforeseen obstacle, do nothing. When unsure what to do, do nothing.
 <br/>
@@ -125,7 +125,7 @@ But perhaps most importantly, don't worry too much about optimizing your researc
 <br/>
 **Do:** Take notes on what you're supposed to do, what results you've gotten, interesting ideas or concepts you hear in presentations, or anything else that's relevant. Forgetting you were supposed to do something is not even close to a valid excuse, and having a record of everything you've done will help your professor a lot when they need to write a recommendation for you.
 
-#### Interactions with others
+## Interactions with others
 
 **Don't:** Suffer in silence when things aren't going well.
 <br/>
@@ -154,13 +154,13 @@ But perhaps most importantly, don't worry too much about optimizing your researc
 <br/>
 **Do:** Be kind, respectful, and humble. This goes for life in general, but is especially advisable in situations wherein someone's opinion of you and whether they would recommend working with you matters a great deal.
 
-# Summary
+#### Summary
 
 A good undergrad researcher is *tenacious*. They work with enthusiasm, take ownership of their piece of the project, and get stuff ***done***. They get up to speed on the project quickly, figure out the details themselves, and find a way through obstacles and uncertainty. They're responsible, easy to work with, and constantly improving. They eventually make creative contributions to their projects and become like another grad student.
 
 A bad undergraduate researcher doesn't care about what they're working on, assigns low priority to research, and does the bare minimum that's asked of them (or less). They always have an excuse to not get work done and can't be relied upon.
 
-# Further Reading
+#### Further Reading
 
 - [Tips for Undergraduate Researchers](https://robotics.eecs.berkeley.edu/~pister/etc/urtips.html)
 - [Tips for your first undergraduate research experience](http://www.asbmb.org/asbmbtoday/201505/Education/Tips/)
