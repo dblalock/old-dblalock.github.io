@@ -20,8 +20,6 @@ Once you've been with the group for a year or two, you'll likely be the expert r
 
 ## Research vs Classes
 
-<!-- Research is much harder than classes in many respects. -->
-
 Because the main set of responsibilities you're used to are likely classes, it's worth pointing out several ways in which research differs.
 
 
@@ -37,14 +35,7 @@ In classes, success is largely determined by your ability to learn quickly and e
 
 This applies at the level of picking the overall project, figuring what sub-goals will make the project a success, and determining what tasks that need to be done on a day-to-day or even hour-to-hour basis to get there. No one hands you a homework-like sheet with numbered deliverables and well-defined specifications. Instead, defining such deliverables and specifications for yourself is much of the challenge.
 
-<!-- This is inherent to -->
-
-<!-- This has several important consequences:
- -You can waste months of your life by working on the wrong things; or, conversely you can work twice as fast by identifying the 50% of tasks that aren't actually necessary.
- -No one knows how long things will take. Unless someone has done something almost identical in the past (e.g., summarizing a paper, collecting data using a certain method), estimation of time requirements is challenging. -->
-
 As an undergrad, your mentor will insulate you from this uncertainty to some extent early on, as described previously. But keep in mind that cultivating the skill of dealing with this uncertainty is much of what it means to grow as a researcher.
-
 
 # Evaluation Criteria: What success looks like (sometimes)
 
@@ -57,8 +48,6 @@ Doing research will get you some combination of:
  - A recommendation from a faculty member
 
 What a "successful" undergraduate research experience looks like depends on your personal goals. For many goals, there's little I can tell you that you don't already know. If your goal is to pursue a PhD or research-heavy MS, however, I can tell you that a large portion of "successful" is getting a recommendation that looks roughly as follows:
-
-<!-- For a job in industry, there isn't a universal standard for what companies look for in your research experience. For PhD (and perhaps research-heavy MS) applications, what you want is a recommendation from the professor that says something like the following: -->
 
 > Dear Admissions Committee,
 >
@@ -164,7 +153,6 @@ But perhaps most importantly, don't worry too much about optimizing your researc
 **Don't:** Be unpleasant, disrespectful or arrogant.
 <br/>
 **Do:** Be kind, respectful, and humble. This goes for life in general, but is especially advisable in situations wherein someone's opinion of you and whether they would recommend working with you matters a great deal.
-
 
 # Summary
 
