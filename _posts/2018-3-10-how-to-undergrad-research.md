@@ -12,7 +12,7 @@ Research is a different experience, with different success criteria, than most u
 
 The exact nature of what you'll be doing varies by field, but will usually have the same structure. Initially, you'll work either with a professor or graduate student on one of their existing projects. In the worst case, you'll be doing something menial for a while that they didn't want to do. In the best case, you'll be doing something you find interesting that consistently pushes you just past your current level of knowledge. Either way, you'll likely meet with this mentor once a week or so, during which you'll report on what you got done and relevant results, and both of you will figure out what to do for next week. Eventually, if you stick with it and show that you're effective, you'll be given more autonomy, ownership of bigger pieces of projects, or even the opportunity to lead a project yourself.
 
-In the first few weeks (or longer) you can expect to be given well-defined tasks. This is partially because you won't know anything yet and will *need* specific direction. It's also because this lets both you and the group figure out how consistently you'll get work done when classes, etc, get busy. Many undergrads like the idea of doing research, but get little done when there's competition for their time.
+In the first few weeks (or longer) you can expect to be given well-defined tasks. This is partially because you're not yet familiar with the field and will *need* specific direction. It's also because this lets both you and the group figure out how consistently you'll get work done when classes, etc, get busy. Many undergrads like the idea of doing research, but get little done when there's competition for their time.
 
 As you get more familiar with the project and research area, your tasks are likely to become less well-specified. This is not because your mentor wants to make things vague, but because fleshing out the details of your work takes time for them. Having you figure out the details yourself is much more efficient. The more you show that you're capable of accomplishing high-level goals, the easier it is for them.
 
@@ -31,9 +31,7 @@ In classes, it's generally frowned upon for homework or tests to demand skills o
 
 #### Uncertainty
 
-In classes, success is largely determined by your ability to learn quickly and execute well-defined tasks with high quality. In research, these abilities are important but there's another quality that matters perhaps even more:
-
- - *Ability to figure out what to work on*
+In classes, success is largely determined by your ability to learn quickly and execute well-defined tasks with high quality. In research, these abilities are important but there's another quality that matters perhaps even more: *Ability to figure out what to work on*.
 
 This applies at the level of picking the overall project, figuring what sub-goals will make the project a success, and determining what tasks that need to be done on a day-to-day or even hour-to-hour basis to get there. No one hands you a homework-like sheet with numbered deliverables and well-defined specifications. Instead, defining such deliverables and specifications for yourself is much of the challenge.
 
@@ -49,13 +47,15 @@ As an undergrad, your mentor will insulate you from this uncertainty to some ext
 
 Doing research will get you some combination of:
 
- - Technical skills associated with the field in which you're doing research
+ - Technical skills associated with the field in which you're working
  - Understanding of the research process and experience doing research
  - Connections in the form of labmates
  - One or more peer-reviewed papers with your name on them
  - A recommendation from a faculty member
 
-What a "successful" undergraduate research experience looks like depends on your personal goals. For many goals, there's little I can tell you that you don't already know. If your goal is to pursue a PhD or research-heavy MS, however, I can tell you that a large portion of "successful" is getting a recommendation that looks roughly as follows:
+What a "successful" undergraduate research experience looks like depends on your personal goals. If your goal is to pursue a PhD or a research-heavy MS, one of the most important outcomes of undergraduate research is the recommendation you (hopefully) end up with at the end. Recommendations factors highly in university acceptance decisions, and while they may take many forms, an example of a good one might be:
+
+<!-- What a "successful" undergraduate research experience looks like depends on your personal goals. For many goals, there's little I can tell you that you don't already know. If your goal is to pursue a PhD or research-heavy MS, however, I can tell you that a large portion of "successful" is getting a recommendation that looks roughly as follows: -->
 
 <!-- For a job in industry, there isn't a universal standard for what companies look for in your research experience. For PhD (and perhaps research-heavy MS) applications, what you want is a recommendation from the professor that says something like the following: -->
 
@@ -97,7 +97,7 @@ Some non-obvious aspects worth highlighting:
  - There is little chance the professor remembers all of this detail about what Sally did over the past three years. Sally probably kept a meticulous list and gave it to the professor when she asked for a recommendation.
  - The number of papers Sally has is largely out of her control, since it depends on the publishing productivity of her mentor(s). Admissions committees know this, so don't worry too much about it. What's most impressive is the last part where she's writing a first-author paper as an undergrad. As a side note, she almost certainly had to stay and do research over at least one summer to do this.
 
-But perhaps most importantly, don't worry too much about optimizing your research experience, especially early on. If you don't want to work on your research absent such extrinsic motivation, you probably won't put in the necessary effort anyway. Moreover, depending on your life goals, it might not be worth the somewhat insane level of effort required to get into the top schools. This is just what you should aim for if you decide that this is your goal.
+<!-- But perhaps most importantly, don't worry too much about optimizing your research experience, especially early on. If you don't want to work on your research absent such extrinsic motivation, you probably won't put in the necessary effort anyway. Moreover, depending on your life goals, it might not be worth the somewhat insane level of effort required to get into the top schools. This is just what you should aim for if you decide that this is your goal. -->
 
 <!-- If you stick with a group for a long -->
 
@@ -131,9 +131,9 @@ But perhaps most importantly, don't worry too much about optimizing your researc
 <br/>
 **Do:** Treat research like a part time job demanding serious commitment. You might not want to do this when you first join a group and aren't sure if you'll like it, but it will become necessary once you really want to excel within the group. There will be a small number of weeks each semester that are especially busy and most mentor's won't expect you to get much done, but this should only be a few weeks---if you get nothing done in any week with, e.g., a test or project deadline, you won't get anything done after about week four of the semester.
 
-**Don't:** Write nothing down.
+**Don't:** Try to keep track of everything in your head.
 <br/>
-**Do:** Take notes on what you're supposed to do, what results you've gotten, interesting ideas or concepts you hear in presentations, or anything else that's relevant. Forgetting you were supposed to do something is not even close to a valid excuse, and having a record of everything you've done will help your professor a lot when they need to write a recommendation for you.
+**Do:** Take notes on what you're supposed to do, what results you've gotten, interesting ideas or concepts you hear in presentations, or anything else that's relevant. Forgetting you were supposed to do something is not a valid excuse, and having a record of everything you've done will help your professor a lot when they need to write a recommendation for you.
 
 #### Interactions with others
 
@@ -141,24 +141,31 @@ But perhaps most importantly, don't worry too much about optimizing your researc
 <br/>
 **Do:** Actively communicate with your mentor about how things are going, how long your work is taking, and anything else relevant. Any mentor but a seasoned professor will probably not have supervised many people, and so may not have a sense of the difficulty of what they're asking of you or how to guide you effectively. Closing the feedback loop helps them mentor you well.
 
-**Don't:** Ask your mentor for help whenever you encounter a problem. Also don't *not* ask for help when a quick email response could save you hours.
+**Don't:** Ask your mentor for help whenever you encounter a problem.
 <br/>
-**Do:** First try to solve problems on your own and identify when it's worth others' time to help you. This is situational, but roughly amounts to considering whether it will save time overall when you weight your mentor's time more heavily than your own.
+**Do:** First try to solve problems on your own. It saves your mentor both time and mental energy, shows that you have the persistence to deal with challenges, and often results in you learning more.
+
+**Don't:** Be afraid to reach out when a quick clarification email could save you hours of frustration. <br/>
+**Do:** Identify situations when a little bit of input could save you a lot of time, and then get that input. Combined with the previous point, what this means is that you should evaluate whether it's worth others' time to help you when encountering a roadblock. This is situational, but roughly amounts to considering whether it will save time overall when you weight your mentor's time more heavily than your own.
 
 **Don't:** Always work in isolation. <br/>
 **Do:** Get to know the research group. This will provide you with both accelerated learning about the research area and get you a network of others in the lab who can help you (especially with using the group's tools, such as GPUs). Labmates can also help with  grad school or job applications, explaining class material, giving advice about classes, etc. One way to get to know the group is to come to group meetings. Another is to work in the same lab space as others instead of at home or in the library (which is your only option in many fields). <!-- In particular, if you're in a machine learning group, make friends with whoever knows the most about using the GPUs (I say this as a joke...but actually do this). -->
 
 **Don't:** Be late or skip meetings, especially without warning.
 <br/>
-**Do:** Be on time. If you'll be late or can't make a meeting, let your mentor know a few days in advance whenever possible.
+**Do:** Be on time. If you'll be late or can't make a meeting, let your mentor know with as much advance warning as you can.
+Remember, your mentor is also busy with their own research, and they are taking time out of their schedule to help you with yours.
 
-**Don't:** Write casual emails when professional emails are required. "Hi John" is not how you address professors unless you already have a strong relationship with them and they're clearly okay with you using their first names. Same goes for writing ungrammatical prose or long emails.
+**Don't:** Write ineffective emails. <br/>
+**Do:** Write concise, clear emails that are easy to read and provide necessary context. Unless you're in the middle of a rapid, casual email exchange, it's usually worth going back through your prose to shorten and tighten it. In some situations, bolding important points (esp. key dates and times) can be helpful.
+
+**Don't:** Write casual emails when professional emails are required. "Hi John" is not how you address professors unless you already have a relationship with them and they're clearly okay with you using their first names. Same goes for writing ungrammatical or overly casual prose.
 <br/>
 **Do:** Address professors as, e.g., "Professor Smith", write concise, grammatical emails, and otherwise convey that you know how to act professional.
 
 **Don't:** Hold back questions because you're afraid of looking dumb.
-<br />
-**Do:** Ask questions whenever the answers would help you and you aren't derailing something (e.g., a practice presentation). No one expects you to know anything. As mentioned above, you're evaluated much more on what you get done and the initiative, creativity, and work ethic you demonstrate as you do it.
+<br/>
+**Do:** Ask questions whenever the answers would help you and you aren't derailing something (e.g., a practice presentation). No one expects you to know much about the field early on. As mentioned above, you're evaluated much more on what you get done and the initiative, creativity, and work ethic you demonstrate as you do it.
 
 **Don't:** Be unpleasant, disrespectful or arrogant.
 <br/>
@@ -167,9 +174,13 @@ But perhaps most importantly, don't worry too much about optimizing your researc
 
 ## Summary
 
-A good undergrad researcher is *tenacious*. They work with enthusiasm, take ownership of their piece of the project, and get stuff ***done***. They get up to speed on the project quickly, figure out the details themselves, and find a way through obstacles and uncertainty. They're responsible, easy to work with, and constantly improving. They eventually make creative contributions to their projects and become like another grad student.
+A great undergrad researcher is *tenacious*. They work with enthusiasm, take ownership of their piece of the project, and get stuff ***done***. They get up to speed on the project quickly, figure out the details themselves, and find a way through obstacles and uncertainty. They're responsible, easy to work with, and constantly improving. They eventually make creative contributions to their projects and become like another grad student.
 
-A bad undergraduate researcher doesn't care about what they're working on, assigns low priority to research, and does the bare minimum that's asked of them (or less). They always have an excuse to not get work done and can't be relied upon.
+A not-so-great undergraduate researcher doesn't care about what they're working on, assigns low priority to research, and does the bare minimum that's asked of them (or less). They're flaky, not around the lab often, and improve slowly or not at all.
+
+Of course, no one is perfect, but the more you resemble the first description and the less you resemble the second, the better a job you're probably doing.
+
+<!-- This might be the right strategy if you don't particularly value your research experience, but isn't the route to excelling as an undergraduate researcher. -->
 
 ## Further Reading
 
