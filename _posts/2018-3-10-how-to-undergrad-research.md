@@ -16,13 +16,13 @@ In the first few weeks (or longer) you can expect to be given well-defined tasks
 
 As you get more familiar with the project and research area, your tasks are likely to become less well-specified. This is not because your mentor wants to make things vague, but because fleshing out the details of your work takes time for them. Having you figure out the details yourself is much more efficient. The more you show that you're capable of accomplishing high-level goals, the easier it is for them.
 
-Once you've been with the group for a year or two, you'll likely be the expert regarding some aspect of your project and/or the lab's operations. For example, you might be the one who wrote a piece of software everyone relies on or the one who collected a certain dataset. At this point, you're likely to have a decent understanding of the research area the group works in.
+Once you've been with the group for a year or two (if you decide to stay), you'll likely be the expert regarding some aspect of your project and/or the lab's operations. For example, you might be the one who wrote a piece of software everyone relies on or the one who collected a certain dataset. At this point, you're likely to have a decent understanding of the research area the group works in.
 
 ### Research vs Classes
 
 <!-- Research is much harder than classes in many respects. -->
 
-Because the main set of responsibilities you're used to are likely classes, it's worth pointing out several ways in which research differs.
+Because the main responsibilities you're used to are likely  classes, it's worth pointing out several ways in which research differs.
 
 
 #### Need for self-teaching
@@ -33,7 +33,7 @@ In classes, it's generally frowned upon for homework or tests to demand skills o
 
 In classes, success is largely determined by your ability to learn quickly and execute well-defined tasks with high quality. In research, these abilities are important but there's another quality that matters perhaps even more: *Ability to figure out what to work on*.
 
-This applies at the level of picking the overall project, figuring what sub-goals will make the project a success, and determining what tasks that need to be done on a day-to-day or even hour-to-hour basis to get there. No one hands you a homework-like sheet with numbered deliverables and well-defined specifications. Instead, defining such deliverables and specifications for yourself is much of the challenge.
+This applies at the level of picking the overall project, figuring what sub-goals will make the project a success, and determining what tasks need to be done on a day-to-day or even hour-to-hour basis to get there. No one hands you a homework-like sheet with numbered deliverables and well-defined specifications. Instead, defining such deliverables and specifications for yourself is much of the challenge.
 
 <!-- This is inherent to -->
 
@@ -149,7 +149,7 @@ Some non-obvious aspects worth highlighting:
 **Do:** Identify situations when a little bit of input could save you a lot of time, and then get that input. Combined with the previous point, what this means is that you should evaluate whether it's worth others' time to help you when encountering a roadblock. This is situational, but roughly amounts to considering whether it will save time overall when you weight your mentor's time more heavily than your own.
 
 **Don't:** Always work in isolation. <br/>
-**Do:** Get to know the research group. This will provide you with both accelerated learning about the research area and get you a network of others in the lab who can help you (especially with using the group's tools, such as GPUs). Labmates can also help with  grad school or job applications, explaining class material, giving advice about classes, etc. One way to get to know the group is to come to group meetings. Another is to work in the same lab space as others instead of at home or in the library (which is your only option in many fields). <!-- In particular, if you're in a machine learning group, make friends with whoever knows the most about using the GPUs (I say this as a joke...but actually do this). -->
+**Do:** Get to know the research group. This will provide you with both accelerated learning about the research area and get you a network of others in the lab who can help you (especially with using the group's tools, such as GPUs). Labmates can also help with grad school or job applications, explaining class material, giving advice about classes, etc. One way to get to know the group is to come to group meetings. Another is to work in the same lab space as others instead of at home or in the library (which is your only option in many fields). A related corollary here is that you should take opportunities to present your work to others (including outside the group) at poster sessions or other events; this gets you valuable presentation and communication practice that will help in industry or academia. <!-- In particular, if you're in a machine learning group, make friends with whoever knows the most about using the GPUs (I say this as a joke...but actually do this). -->
 
 **Don't:** Be late or skip meetings, especially without warning.
 <br/>
